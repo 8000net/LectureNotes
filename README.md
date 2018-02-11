@@ -9,6 +9,7 @@ Find installation instructions at:
 https://github.com/ipython-contrib/jupyter_contrib_nbextensions
 
 `pip install jupyter_contrib_nbextensions`
+
 `jupyter contrib nbextension install --user`
 
 
